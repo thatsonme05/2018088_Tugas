@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent" android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Frank Ocean Is The G.O.A.T!!!! "
+        android:textSize="20dp"
+        style="@style/Base.ThemeOverlay.AppCompat.Light"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textColor="@color/design_default_color_on_secondary"/>
+</LinearLayout>
